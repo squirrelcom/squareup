@@ -52,9 +52,6 @@ class Config {
 			'y/': {
 				urlPrefix: 'https://youtube.com/results?search_query='
 			},
-			'n/': {
-				urlPrefix: 'https://nhentai.net/g/'
-			},
 			'g/': {
 				urlPrefix: 'https://github.com/search?q='
 			}
@@ -68,7 +65,7 @@ class Config {
 		const searchEngines = {
 			'startpage': {
 				name: 'Startpage',
-				prefix: 'https://www.startpage.com/do/dsearch?query=',
+				prefix: 'https://squirrelcom.github.io/seARch/seARch.html?q=',
 				icon: 'startpage'
 			},
 			'qwant': {
