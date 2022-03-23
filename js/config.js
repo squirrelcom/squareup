@@ -64,7 +64,7 @@ class Config {
 
 		const searchEngines = {
 			'startpage': {
-				name: 'Startpage',
+				name: 'seARch!',
 				prefix: 'https://squirrelcom.github.io/seARch/seARch.html?q=',
 				icon: 'startpage'
 			},
