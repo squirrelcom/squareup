@@ -168,12 +168,6 @@ class Config {
 				category: 'development'
 			},
 			{
-				site: 'Deviantart',
-				icon: 'deviantart',
-				url: 'https://deviantart.com/',
-				category: 'design'
-			},
-			{
 				site: 'Duckduckgo',
 				icon: 'duckduckgo',
 				url: 'https://duckduckgo.com/',
